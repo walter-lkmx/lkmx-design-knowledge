@@ -19,4 +19,5 @@ jobs:
       
     - name: Copy MD files
       run: |
-        cp -R pages/. pages/
+        cp -R respaldo-doc/md-files/. pages/content
+
