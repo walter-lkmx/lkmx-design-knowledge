@@ -15,8 +15,8 @@ jobs:
 
     - name: Clone remote repository
       run: |
-        git clone https://github.com/walter-lkmx/respaldo-doc.git
+        git clone https://github.com/walter-lkmx/respaldo-doc.git --branch 0.3
       
     - name: Copy MD files
       run: |
-        cp -R pages/. pages/
+        cp -R respaldo-doc/pages/. pages/
