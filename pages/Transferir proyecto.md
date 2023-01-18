@@ -8,7 +8,7 @@
 
 **Propósito**
 
-Garantizar la continuidad del proyecto. La transferencia de conocimiento y responsabilidades entre Design Leads, asegura que el Design Lead entrante tenga toda la información necesaria para tomar decisiones informadas y liderar el proyecto de manera efectivas***  .***
+Garantizar la continuidad del proyecto. La transferencia de conocimiento y responsabilidades entre Design Leads, asegura que el Design Lead entrante tenga toda la información necesaria para tomar decisiones informadas y liderar el proyecto de manera efectivas..
 
 **Pasos**
 
