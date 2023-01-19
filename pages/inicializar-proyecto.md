@@ -1,8 +1,8 @@
-![:dart:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/standard/caa27a19-fc09-4452-b2b4-a301552fd69c/64x64/1f3af.png) **Objetivo:** Garantizar que se cuenta con toda la información y recursos necesarios para comenzar el trabajo de manera eficiente.
+**Objetivo:** Garantizar que se cuenta con toda la información y recursos necesarios para comenzar el trabajo de manera eficiente.
 
-![:busts_in_silhouette:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/standard/caa27a19-fc09-4452-b2b4-a301552fd69c/64x64/1f465.png) **Roles involucrados:** [Design Lead]
+**Roles involucrados:** [Design Lead]
 
-![:feet:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/standard/caa27a19-fc09-4452-b2b4-a301552fd69c/64x64/1f43e.png) **Actividades del proceso:**
+**Actividades del proceso:**
 
 1. Inicializar proyecto
 
@@ -35,6 +35,4 @@ Garantizar que se cuenta con toda la información y recursos necesarios para com
 
 ### Diagrama de flujo
 
-![](blob:https://jr2vjr5z5dfsbuueh.atlassian.net/3896d504-fbaa-440a-8e07-c53dcf209be5#media-blob-url=true&id=66ac4d72-cbdf-4b33-b9d4-b58ea43e3ffc&collection=contentId-2201223169&contextId=2201223169&mimeType=image%2Fpng&name=image-20230103-184323.png&size=417383&height=5106&width=2656&alt=)
-
-![:bookmark_tabs:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/standard/caa27a19-fc09-4452-b2b4-a301552fd69c/64x64/1f4d1.png) **Artefactos por actividad y responsable:**
+**Artefactos por actividad y responsable:**

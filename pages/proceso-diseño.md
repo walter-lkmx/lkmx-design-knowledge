@@ -43,7 +43,6 @@ Implementar en el mapa un cambio masivo sobre las vistas.
 -   Mapa actualizado.
 
 **Diagrama de flujo**
-![[image-20220926-182339.png]]
 
 
 ## Procesar historia de usuario
@@ -71,7 +70,6 @@ Verificar que el requerimiento cuenta con los deltas de vista necesarios para se
 -   Deltas de vista.
 
 **Diagrama de flujo**
-![[image-20220926-192205.png]]
 
 
 ## Procesar delta de vista
