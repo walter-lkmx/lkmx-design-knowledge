@@ -1,4 +1,4 @@
-# Proceso de diseño {unlisted}
+
 
 **Objetivo:** Cumplir con las necesidades del usuario final sin descuidar los objetivos del negocio. Incluye actividades que van desde la inicialización del proyecto, la obtención de recursos de marca, hasta el procesamiento de requerimientos y su comunicación efectiva a través de artefactos estandarizados. Cada una de estas etapas permiten lograr diseño de alta calidad y brindar una experiencia de usuario satisfactoria así como la continuidad del proyecto.
 
@@ -111,7 +111,6 @@ Diseñar en el mapa un cambio específico sobre una vista en específico.
 -   Deltas en backlog.
 
 **Diagrama de flujo**
-![[image-20220926-192403.png]]
 
 
 ## Solicitar recursos de marca
@@ -135,7 +134,6 @@ Asegurar que los proyectos de la empresa tengan acceso a los recursos de marca n
 -   Correo con solicitud de recursos de marca.
 
 **Diagrama de flujo**
-![[image-20230103-003625.png]]
 
 
 
@@ -174,7 +172,6 @@ Garantizar que se cuenta con toda la información y recursos necesarios para com
 -   Repositorio de proyecto en Figma con archivos de inicialización.
 
 **Diagrama de flujo**
-![[image-20230103-184323.png]]
 
 
 
@@ -213,4 +210,3 @@ Garantizar la continuidad del proyecto. La transferencia de conocimiento y respo
 -   Toma de responsabilidad del proyecto por parte del Design Lead entrante.
 
 **Diagrama de flujo**
-![[image-20230103-185850.png]]

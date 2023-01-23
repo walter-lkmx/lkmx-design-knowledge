@@ -1,3 +1,5 @@
+# Footer
+
 El _footer_ de un sitio es un área ubicada en la parte inferior de cada página, debajo del contenido principal. Los _footers_ sirven como un importante punto de referencia para los usuarios mientras completan una variedad de tareas en un sitio.
 
 Hay dos casos de uso comunes:
@@ -21,15 +23,13 @@ Utiliza tamaños y colores de fuente apropiados para un buen contraste; evita ut
 
 ---
 
-## Componente [](https://www.figma.com/file/Zv5cp2PFUMFR3G3fp6qb15/Flare-Igniter-%F0%9F%A7%AC?node-id=2105%3A2448 "https://www.figma.com/file/Zv5cp2PFUMFR3G3fp6qb15/Flare-Igniter-%F0%9F%A7%AC?node-id=2105%3A2448")![:link:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/standard/caa27a19-fc09-4452-b2b4-a301552fd69c/64x64/1f517.png)
-
-![](https://static.figma.com/uploads/b6df2735e4cb368306acf5480b50f96e69f96099)
+## Componente
 
 [FIG - Components](https://www.figma.com/file/adTpzuue9VJyGt5D6bb45F/FIG---Components?node-id=2105%3A2438)
 
 Referencias:
 
--   [![](https://media.nngroup.com/static/img/favicon.ico)Web Page Footers 101: Design Patterns and When to Use Each](https://www.nngroup.com/articles/footers/)
+-   [Web Page Footers 101: Design Patterns and When to Use Each](https://www.nngroup.com/articles/footers/)
     
 
-Pending [![](https://jetpackme.files.wordpress.com/2022/06/cropped-jp-favicon-new-3.png?w=32)Website Footer 101: Design, Content, Best Practices & Examples](https://jetpack.com/blog/website-footer-best-practices-and-examples/)
+-   [Website Footer 101: Design, Content, Best Practices & Examples](https://jetpack.com/blog/website-footer-best-practices-and-examples/)

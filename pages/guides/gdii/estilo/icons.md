@@ -1,3 +1,5 @@
+# Icons
+
 Un icono es la representación visual de un objeto, acción o idea. Si esto no es inmediatamente claro para el usuario, el icono será reducido a ruido visual, lo que llevará al usuario a abandonar su tarea.
 
 ## Tipos de iconos
@@ -70,9 +72,5 @@ El icono por si solo será suficiente cuando se cumplan al menos dos de las sigu
     
 
 ---
-
-## Componente ![:link:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/standard/caa27a19-fc09-4452-b2b4-a301552fd69c/64x64/1f517.png)
-
-![](https://static.figma.com/uploads/b6df2735e4cb368306acf5480b50f96e69f96099)
 
 [FIG - Components](https://www.figma.com/file/adTpzuue9VJyGt5D6bb45F/FIG---Components?node-id=2105%3A2445)

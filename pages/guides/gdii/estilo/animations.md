@@ -1,3 +1,5 @@
+# Animations
+
 Utilizadas apropiadamente las animaciones pueden comunicar un estado, proveer retroalimentación, aumentar el sentido de manipulación del usuario y ayudarlo a visualizar el resultado de sus acciones.
 
 ## Utiliza la animación y el movimiento con un propósito

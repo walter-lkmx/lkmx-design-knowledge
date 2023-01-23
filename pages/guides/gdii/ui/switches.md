@@ -1,3 +1,5 @@
+# Switches 
+
 Los _toggle switches_ invitan al usuario a elegir entre dos opciones: encendido y apagado.
 
 ## Brinda resultados inmediatos
@@ -76,9 +78,7 @@ Cuando cambia el estado de un _switch_, éste debería cambiar de posición y co
 
 Los _switches_ están pensados para utilizarse en renglones, como en una lista de configuraciones que pueden encenderse y apagarse. Si necesitas una funcionalidad similar en un menú o barra de navegación, es mejor utilizar botones que comuniquen esos dos estados.
 
-## Componente ![:link:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/standard/caa27a19-fc09-4452-b2b4-a301552fd69c/64x64/1f517.png)
-
-![](https://static.figma.com/uploads/b6df2735e4cb368306acf5480b50f96e69f96099)
+## Componente 
 
 [FIG - Components](https://www.figma.com/file/adTpzuue9VJyGt5D6bb45F/FIG---Components?node-id=2159%3A2459)
 
@@ -86,8 +86,8 @@ Los _switches_ están pensados para utilizarse en renglones, como en una lista d
   
 Referencias:
 
--   [![](https://media.nngroup.com/static/img/favicon.ico)Toggle-Switch Guidelines](https://www.nngroup.com/articles/toggle-switch-guidelines/)
+-   [Toggle-Switch Guidelines](https://www.nngroup.com/articles/toggle-switch-guidelines/)
     
--   [![](https://m2.material.io/static/assets/favicon.ico)Material Design](https://material.io/components/switches)
+-   [Material Design](https://material.io/components/switches)
     
--   [![](https://developer.apple.com/favicon.ico)Toggles - Selection and input - Components - Human Interface Guidelines - Design - Apple Developer](https://developer.apple.com/design/human-interface-guidelines/ios/controls/switches/)
+-   [Toggles - Selection and input - Components - Human Interface Guidelines - Design - Apple Developer](https://developer.apple.com/design/human-interface-guidelines/ios/controls/switches/)

@@ -1,3 +1,5 @@
+# Cards
+
 Las tarjetas son superficies que muestran contenido y acciones en un un solo tema. Cada tarjeta se compone de bloques de contenido. Todos los bloques, en su conjunto, están relacionados con un único tema o destino. El contenido puede recibir diferentes niveles de énfasis, dependiendo de su nivel de jerarquía. Las tarjetas pueden contener divisores y se pueden usar para separar regiones o para indicar áreas que se pueden expandir.
 
 ## Principios
@@ -50,8 +52,6 @@ Es posible ajustar el diseño de los componentes para satisfacer las necesidades
 
 ---
 
-## Componente ![:link:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/standard/caa27a19-fc09-4452-b2b4-a301552fd69c/64x64/1f517.png)
-
-![](https://static.figma.com/uploads/b6df2735e4cb368306acf5480b50f96e69f96099)
+## Componente
 
 [FIG - Components](https://www.figma.com/file/adTpzuue9VJyGt5D6bb45F/FIG---Components?node-id=2105%3A2451)

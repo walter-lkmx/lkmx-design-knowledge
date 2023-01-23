@@ -1,3 +1,5 @@
+# Application Launch
+
 El lanzamiento de una aplicación tiene un impacto importante en la percepción del usuario, sin importar el dispositivo o cuándo fue la última vez que utilizaron tu aplicación la experiencia de lanzamiento debe ser rápida y fluida.
 
 ## Provee una pantalla de lanzamiento

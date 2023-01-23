@@ -1,3 +1,5 @@
+# Split View
+
 Una vista “dividida” presenta al menos dos columnas de contenido y ayudan a crear jerarquía entre ellos. Debe existir una columna principal y una secundaria que responde a los cambios en la primer columna. Son útiles cuando necesitas tener varios niveles de contenido como, por ejemplo, ver los detalles de un pedido desde una lista de pedidos.
 
 ## Resalta la selección activa en la columna principal

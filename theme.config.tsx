@@ -15,4 +15,19 @@ const config: DocsThemeConfig = {
   },
 }
 
-export default config
+
+export default { config,
+sidebar: {
+    titleComponent: ({ title, type }) => {
+      if (type === 'separator') {
+        return (
+          <div style={{ background: 'cyan', textAlign: 'center' }}>{title}</div>
+        );
+      }
+      if (title === 'Proceso Diseño') {
+        return <>❓ {title}</>;
+      }
+      return <>👉 {title}</>;
+    },
+  },
+}  

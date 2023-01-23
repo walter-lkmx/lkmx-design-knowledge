@@ -1,3 +1,5 @@
+# Accordion
+
 Componente que al hacer click sobre el, revela u oculta una sección de contenido.
 
 Puede contener una gran cantidad de información en un espacio muy reducido a través de su revelación progresiva. Los títulos como encabezados le debe dar al usuario suficiente contexto para permitirle decidir que sección abrir y leer.
@@ -24,7 +26,5 @@ Se recomienda utilizar un icono que comunique que la cabecera del acordeón es a
 ---
 
 ## Componente
-
-![](https://static.figma.com/uploads/b6df2735e4cb368306acf5480b50f96e69f96099)
 
 [FIG - Components](https://www.figma.com/file/adTpzuue9VJyGt5D6bb45F/FIG---Components?node-id=2675%3A3441)

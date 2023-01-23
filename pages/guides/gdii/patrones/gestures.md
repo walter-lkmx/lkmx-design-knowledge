@@ -1,3 +1,5 @@
+# Gestures
+
 Los gestos ayudan a los usuarios a realizar tareas de forma rápida e intuitiva mediante el tacto.
 
 ## Tipos de gestos

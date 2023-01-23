@@ -1,3 +1,5 @@
+# Branding
+
 Expresa una identidad alineada a los valores de una marca utilizando recursos como: tipografía, color e imágenes que comuniquen su esencia. Agrega elementos de branding para dar al usuario contexto pero no al grado de que se conviertan en una distracción.
 
 ## Branding refinado y no intrusivo

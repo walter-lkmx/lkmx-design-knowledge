@@ -1,3 +1,5 @@
+# Header
+
 El header se ubica en la parte superior de la aplicación y contiene elementos de navegación principales que realizan una acción cuando se hace clic en ellos. Cada acción debe navegar a una URL o desencadenar otra acción
 
 ## Solo se puede tener un header
@@ -22,8 +24,7 @@ En ocasiones se coloca una barra de búsqueda para tener está herramienta a la 
 
 ---
 
-## Componentes ![:link:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/standard/caa27a19-fc09-4452-b2b4-a301552fd69c/64x64/1f517.png)
+## Componentes
 
-![](https://static.figma.com/uploads/b6df2735e4cb368306acf5480b50f96e69f96099)
 
 [FIG - Components](https://www.figma.com/file/adTpzuue9VJyGt5D6bb45F/FIG---Components?node-id=2105%3A2455)

@@ -1,3 +1,5 @@
+# Microcopy
+
 Cada palabra en tu aplicación es parte de una conversación con tus usuarios. Usa esta conversación para ayudarlos a sentirse cómodos en tu aplicación.
 
 ## Usa palabras y frases entendibles y familiares.

@@ -1,3 +1,5 @@
+# Loader
+
 Cuando una vista o una función están en proceso de carga, mostrar solo una pantalla en blanco o estática puede dar la impresión de que el sistema se encuentra “congelado“, esto provoca confusión en el usuario y puede causar el abandono de la aplicación .
 
 ## Haz que el estado de carga sea obvio

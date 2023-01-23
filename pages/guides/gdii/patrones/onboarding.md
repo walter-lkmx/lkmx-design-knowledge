@@ -1,3 +1,5 @@
+# Onboarding
+
 Permite dar la bienvenida a usuarios nuevos en la aplicación y conectar con usuarios que regresan. Una experiencia de onboarding **opcional**, rápida y divertida puede ayudar al usuario a aprovechar la aplicación al máximo sin entrometerse en su camino.
 
 ## Ayuda al usuario a disfrutar de la aplicación, no solo configurarla.

@@ -1,3 +1,5 @@
+# Tipografía
+
 La tipografía es uno de los elementos más importantes de cualquier aplicación ya que es la herramienta de comunicación más clara con el usuario. Puede utilizarse para expresar jerarquía, mejorar la legibilidad e incluso evocar sentimientos.
 
 ## Enfatiza la información importante

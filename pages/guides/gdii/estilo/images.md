@@ -1,3 +1,5 @@
+# Images
+
 Al utilizar imágenes debes tomar en cuenta diversos factores, como para que será utilizada, que tan grande debería ser el archivo y qué tipo de formato será utilizado, todo esto sin perder la mínima calidad.
 
 ## Resolución
@@ -11,9 +13,5 @@ Por ejemplo, si tienes una imagen de resolución estándar @1x de 100px x 100px,
 Incluso la mínima compresión puede ahorrar espacio significativo. Prueba con las opciones de compresión en cada imagen para encontrar los valores óptimos y obtener resultados aceptables.
 
 ---
-
-## Componente ![:link:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/standard/caa27a19-fc09-4452-b2b4-a301552fd69c/64x64/1f517.png)
-
-![](https://static.figma.com/uploads/b6df2735e4cb368306acf5480b50f96e69f96099)
 
 [FIG - Components](https://www.figma.com/file/adTpzuue9VJyGt5D6bb45F/FIG---Components?node-id=2105%3A2447)

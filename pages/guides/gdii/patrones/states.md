@@ -1,3 +1,5 @@
+# States
+
 Estado ideal
 
 -   ¿Cómo es el componente cuando todas sus partes funcionan de la manera esperada y reciben el contenido apropiado?

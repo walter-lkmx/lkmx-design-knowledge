@@ -1,3 +1,5 @@
+# Forms
+
 Ingresar información puede ser un proceso tedioso y a veces propenso a errores. Además, cuando una aplicación utiliza formularios extensos o poco claros puede causar un rechazo por parte del usuario.
 
 ## Muestra opciones a elegir

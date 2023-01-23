@@ -1,3 +1,5 @@
+# Navegación
+
 Los usuarios no suelen preocuparse demasiado por la navegación, hasta que la navegación es deficiente. Como diseñador tu trabajo es implementar una navegación que de soporte a la estructura y el propósito de tu aplicación. La navegación debe sentirse natural y familiar, no debe dominar la interfaz ni llevarse la atención del objetivo de la vista.
 
 ## Navegación jerárquica

@@ -1,3 +1,5 @@
+# Dark Mode
+
 En modo oscuro o _dark mode_, la aplicación utiliza una paleta de colores oscuros en sus componentes, y utiliza colores más vibrantes para resaltar los controles y ciertas partes del contenido.
 
 ## Mantén la configuración del dispositivo

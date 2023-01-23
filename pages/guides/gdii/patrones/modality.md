@@ -1,3 +1,5 @@
+# Modality
+
 Presenta contenido en un modo temporal. Enfoca la atención del usuario en tareas que requieren de toda su atención para que pueda tomar una acción sobre ella.
 
 En términos de diseño, pueden usarse diferentes tipos de modal, lo más común es centrarlo en la pantalla pero los hay de varias formas.
@@ -25,6 +27,4 @@ Sin importar el tipo de acción que tome el usuario para descartar el modal, si 
 Utiliza transiciones que hagan que el usuario se de cuenta que cambió de contexto y mantén este estilo en toda la aplicación.
 
 ---
-
-## Componente ![:link:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/standard/caa27a19-fc09-4452-b2b4-a301552fd69c/64x64/1f517.png)
 

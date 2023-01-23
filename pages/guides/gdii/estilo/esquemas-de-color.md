@@ -1,3 +1,5 @@
+# Esquemas De Color
+
 El color es una excelente herramienta para retroalimentar las acciones del usuario, proveer información de un estado o ayudar a visualizar datos.
 
 ## Organización
