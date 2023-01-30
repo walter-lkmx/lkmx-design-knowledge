@@ -12,7 +12,7 @@ Los links en oraciones completas no deben ser vinculados a la oración en sí, �
 
 ## Links fuera de la oración
 
-Aquellos links que no se encuentran contenidos dentro de una oración completa, deben seguir el patrón de {verbo + sustantivo} y no ser puntuado, a excepción del símbolo de interrogación. Por ejemplo “Leer mas” y “¿Olvidaste tu contraseña?”
+Aquellos links que no se encuentran contenidos dentro de una oración completa, deben seguir el patrón de "verbo + sustantivo" y no ser puntuado, a excepción del símbolo de interrogación. Por ejemplo “Leer mas” y “¿Olvidaste tu contraseña?”
 
 ---
 
