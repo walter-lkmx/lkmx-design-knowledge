@@ -28,3 +28,4 @@ Utiliza transiciones que hagan que el usuario se de cuenta que cambió de contex
 
 ---
 
+## Componente

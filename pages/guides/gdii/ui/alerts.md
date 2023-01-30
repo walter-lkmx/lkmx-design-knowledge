@@ -16,6 +16,6 @@ Por lo general la alerta comunica un cambio o error en el sistema, por lo tanto 
 
 ---
 
-## Componente 
+## Componente
 
 [FIG - Components](https://www.figma.com/file/adTpzuue9VJyGt5D6bb45F/FIG---Components?node-id=2105%3A2448)

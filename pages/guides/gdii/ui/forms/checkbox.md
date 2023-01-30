@@ -23,6 +23,5 @@ Usa un titulo o descripción para introducir al checkbox o grupo de checkboxes s
 
 ---
 
-## Componente
-
+## Componente 
 [FIG - Components](https://www.figma.com/file/adTpzuue9VJyGt5D6bb45F/FIG---Components?node-id=2286%3A2533)

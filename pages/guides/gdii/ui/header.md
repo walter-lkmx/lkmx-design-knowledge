@@ -25,6 +25,4 @@ En ocasiones se coloca una barra de búsqueda para tener está herramienta a la 
 ---
 
 ## Componentes
-
-
 [FIG - Components](https://www.figma.com/file/adTpzuue9VJyGt5D6bb45F/FIG---Components?node-id=2105%3A2455)

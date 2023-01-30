@@ -15,6 +15,6 @@ Los links en oraciones completas no deben ser vinculados a la oración en sí, �
 Aquellos links que no se encuentran contenidos dentro de una oración completa, deben seguir el patrón de {verbo + sustantivo} y no ser puntuado, a excepción del símbolo de interrogación. Por ejemplo “Leer mas” y “¿Olvidaste tu contraseña?”
 
 ---
-## Componente
 
+## Component
 [FIG - Components](https://www.figma.com/file/adTpzuue9VJyGt5D6bb45F/FIG---Components?node-id=2449%3A3016)

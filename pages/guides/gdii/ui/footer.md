@@ -23,13 +23,12 @@ Utiliza tamaños y colores de fuente apropiados para un buen contraste; evita ut
 
 ---
 
-## Componente
-
+## Componente 
 [FIG - Components](https://www.figma.com/file/adTpzuue9VJyGt5D6bb45F/FIG---Components?node-id=2105%3A2438)
 
 Referencias:
 
--   [Web Page Footers 101: Design Patterns and When to Use Each](https://www.nngroup.com/articles/footers/)
+-   Web Page Footers 101: Design Patterns and When to Use Each (https://www.nngroup.com/articles/footers/)
     
 
--   [Website Footer 101: Design, Content, Best Practices & Examples](https://jetpack.com/blog/website-footer-best-practices-and-examples/)
+-   Pending Website Footer 101: Design, Content, Best Practices & Examples (https://jetpack.com/blog/website-footer-best-practices-and-examples/)

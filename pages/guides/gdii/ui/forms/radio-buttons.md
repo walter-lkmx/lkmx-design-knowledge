@@ -16,14 +16,14 @@ Asigna una breve descripción al set de opción.
 
 ---
 
-## Componente 
+## Componente
 
 [FIG - Components](https://www.figma.com/file/adTpzuue9VJyGt5D6bb45F/FIG---Components?node-id=2226%3A2475)
 
 Referencias:
 
--   [Material Design](https://material.io/components/radio-buttons#usage)
+-   Material Design (https://material.io/components/radio-buttons#usage)
     
 -   [https://www.framer.com/examples/radio-button-form/](https://www.framer.com/examples/radio-button-form/)
     
--   [Toggles - Selection and input - Components - Human Interface Guidelines - Design - Apple Developer](https://developer.apple.com/design/human-interface-guidelines/macos/buttons/radio-buttons/)
+-   Toggles - Selection and input - Components - Human Interface Guidelines - Design - Apple Developer (https://developer.apple.com/design/human-interface-guidelines/macos/buttons/radio-buttons/)

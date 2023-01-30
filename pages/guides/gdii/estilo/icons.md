@@ -8,39 +8,19 @@ Un icono es la representación visual de un objeto, acción o idea. Si esto no e
 
 **Significado conflictivo:** Existen iconos que en diversos contextos tienen significados similares o iguales, generando conflicto de significado. Por ejemplo, el uso del corazón y la estrella. En ambos casos encontramos que su función y significado varia entre aplicaciones.
 
-**Icono**
-
-**Significado(s)**
-
-Corazón
-
-Me gusta, favorito, guardar, agregar a wishlist.
-
-Estrella
-
-Favorito, guardar, bookmark, rate.
+|**Icono**| **Significado(s)**|
+|----------|--------------|
+| Corazón | Me gusta, favorito, guardar, agregar a wishlist | 
+| Estrella | Favorito, guardar, bookmark, rate |
 
 Otros iconos populares con múltiples significados:
 
-**Icono**
-
-**Significado(s)**
-
-Lápiz
-
-Agregar, editar
-
-Globo de texto
-
-Commentar, mensaje, notificación.
-
-Flechas en loop
-
-Republicar, refrescar, repetir.
-
-Flecha curva a la izquierda
-
-Compartir, regresar, deshacer, responder.
+|**Icono**| **Significado(s)**|
+|----------|--------------|
+| Lápiz | Agregar, editar | 
+| Globo de texto | Comentar, mensaje, notificación|
+| Flechas en loop | Republicar, refrescar, repetir|
+| Flecha curva a la izquierda | Compartir regresar deshacer responder|
 
 Como resultado, estos iconos pueden llegar a ser difíciles de interpretar con precisión desde un principio, incluso bajo el contexto correcto.
 
@@ -73,4 +53,5 @@ El icono por si solo será suficiente cuando se cumplan al menos dos de las sigu
 
 ---
 
+## Componente
 [FIG - Components](https://www.figma.com/file/adTpzuue9VJyGt5D6bb45F/FIG---Components?node-id=2105%3A2445)

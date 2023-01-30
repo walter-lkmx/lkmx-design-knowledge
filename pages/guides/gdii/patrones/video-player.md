@@ -1,3 +1,4 @@
+
 # Video Player
 
 Un video es de gran ayuda sólo si los usuarios tienen control sobre él y entienden qué es lo que contiene.
@@ -16,13 +17,12 @@ Los usuarios deberían saber sobre qué es el video antes de reproducirlo. El t�
 
 ---
 
-## Componente 
-
+## Componente
 [FIG - Components](https://www.figma.com/file/adTpzuue9VJyGt5D6bb45F/FIG---Components?node-id=2455%3A2647)
 
 Referencias:
 
-[Video Usability](https://www.nngroup.com/articles/video-usability/)
+Video Usability (https://www.nngroup.com/articles/video-usability/)
 
 ---
 
