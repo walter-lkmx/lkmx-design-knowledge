@@ -27,5 +27,4 @@ Un campo de texto seguro oculta el valor ingresado remplazandolo por puntos o as
 ---
 
 ## Componente
-
 [FIG - Components](https://www.figma.com/file/adTpzuue9VJyGt5D6bb45F/FIG---Components?node-id=2105%3A2450)

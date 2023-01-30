@@ -9,5 +9,4 @@ Explica el estado de la solicitud en proceso, de preferencia en una palabra a tr
 ---
 
 ## Componente 
-
 [FIG - Components](https://www.figma.com/file/adTpzuue9VJyGt5D6bb45F/FIG---Components?node-id=2491%3A2664)

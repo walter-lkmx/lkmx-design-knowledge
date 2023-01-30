@@ -17,5 +17,4 @@ Este tipo de control generalmente muestra una opción seleccionada por defecto, 
 ---
 
 ## Componente 
-
 [FIG - Components](https://www.figma.com/file/adTpzuue9VJyGt5D6bb45F/FIG---Components?node-id=2295%3A2597)

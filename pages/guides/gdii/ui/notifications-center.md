@@ -1,3 +1,4 @@
+
 # Notifications Center
 
 Las notificaciones proveen al usuario de información oportuna en cualquier momento. Las notificaciones suceden cuando llega un nuevo mensaje, por algún evento, cuando hay nueva información disponible o ha cambiado el estatus de algo. Generalmente se agrupan en un “_Centro de notificaciones_” ubicado en uno de los extremos de la pantalla representado usualmente con el icono de “_Campana_”.
@@ -21,5 +22,4 @@ Si bien las notificaciones pueden tener botones para realizar una acción que pu
 ---
 
 ## Componente
-
 [FIG - Components](https://www.figma.com/file/adTpzuue9VJyGt5D6bb45F/FIG---Components?node-id=3277%3A2232)

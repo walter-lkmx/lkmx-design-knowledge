@@ -20,10 +20,9 @@ Coloca un botón de “Subir archivos” para permitir al usuario seleccionar lo
 
 Referencias:
 
-[Drop zone — Shopify Polaris](https://polaris.shopify.com/components/drop-zone)
+Drop zone — Shopify Polaris (https://polaris.shopify.com/components/drop-zone)
 
 ---
 
-## Componente
-
+## Componente 
 [FIG - Components](https://www.figma.com/file/adTpzuue9VJyGt5D6bb45F/FIG---Components?node-id=2455%3A3335)

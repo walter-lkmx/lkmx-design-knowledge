@@ -25,5 +25,4 @@ El tamaño ideal para que botón que sea fácilmente accionable es de 44px, es p
 ---
 
 ## Componente
-
 [FIG - Components](https://www.figma.com/file/adTpzuue9VJyGt5D6bb45F/FIG---Components?node-id=2105%3A2440)

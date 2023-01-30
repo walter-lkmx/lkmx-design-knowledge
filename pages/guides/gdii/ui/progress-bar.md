@@ -17,5 +17,4 @@ Provee una oración breve que describa la tarea en proceso, mientras se espera a
 ---
 
 ## Componente
-
 [FIG - Components](https://www.figma.com/file/adTpzuue9VJyGt5D6bb45F/FIG---Components?node-id=2105%3A2442)

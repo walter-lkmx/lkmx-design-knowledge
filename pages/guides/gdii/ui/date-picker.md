@@ -20,5 +20,4 @@ A diferencia del calendario normal, en este el usuario elegirá una fecha de ini
 ---
 
 ## Component
-
 [FIG - Components](https://www.figma.com/file/adTpzuue9VJyGt5D6bb45F/FIG---Components?node-id=2521%3A4858)

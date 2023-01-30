@@ -14,4 +14,5 @@ Incluso la mínima compresión puede ahorrar espacio significativo. Prueba con l
 
 ---
 
+## Componente 
 [FIG - Components](https://www.figma.com/file/adTpzuue9VJyGt5D6bb45F/FIG---Components?node-id=2105%3A2447)

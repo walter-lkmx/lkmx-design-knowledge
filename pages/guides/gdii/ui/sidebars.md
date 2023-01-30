@@ -28,6 +28,5 @@ Evita utilizar el sidebar para navegaciones con más de dos niveles de anidació
 
 ---
 
-## Componente
-
+## Componente 
 [FIG - Components](https://www.figma.com/file/adTpzuue9VJyGt5D6bb45F/FIG---Components?node-id=2105%3A2456)

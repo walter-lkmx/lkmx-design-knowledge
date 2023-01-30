@@ -37,4 +37,5 @@ Al realizar una acción destructiva en una alerta, cómo borrar contenido, utili
 
 ---
 
+## Component 
 [FIG - Components](https://www.figma.com/file/adTpzuue9VJyGt5D6bb45F/FIG---Components?node-id=2105%3A2458)

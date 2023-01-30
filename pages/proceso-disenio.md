@@ -1,5 +1,4 @@
 
-
 **Objetivo:** Cumplir con las necesidades del usuario final sin descuidar los objetivos del negocio. Incluye actividades que van desde la inicialización del proyecto, la obtención de recursos de marca, hasta el procesamiento de requerimientos y su comunicación efectiva a través de artefactos estandarizados. Cada una de estas etapas permiten lograr diseño de alta calidad y brindar una experiencia de usuario satisfactoria así como la continuidad del proyecto.
 
 **Roles involucrados:** [Design Lead]
@@ -112,7 +111,6 @@ Diseñar en el mapa un cambio específico sobre una vista en específico.
 
 **Diagrama de flujo**
 
-
 ## Solicitar recursos de marca
 
 **Propósito**
@@ -134,9 +132,6 @@ Asegurar que los proyectos de la empresa tengan acceso a los recursos de marca n
 -   Correo con solicitud de recursos de marca.
 
 **Diagrama de flujo**
-
-
-
 
 
 ## Inicializar proyecto
@@ -172,8 +167,6 @@ Garantizar que se cuenta con toda la información y recursos necesarios para com
 -   Repositorio de proyecto en Figma con archivos de inicialización.
 
 **Diagrama de flujo**
-
-
 
 ## Transferir proyecto
 

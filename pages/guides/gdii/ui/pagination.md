@@ -15,5 +15,4 @@ Comúnmente este elemento es colocado al final de la página, sin embargo, si co
 Existen distintos controles que se pueden utilizar en este componente, _botones para navegar a la siguiente página, última página_ o _un campo para ir a una página_ en concreto son algunos ejemplos.
 
 ## Componente 
-
 [FIG - Components](https://www.figma.com/file/adTpzuue9VJyGt5D6bb45F/FIG---Components?node-id=2158%3A2465)

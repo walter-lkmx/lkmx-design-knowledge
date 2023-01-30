@@ -29,5 +29,4 @@ Estos elementos se vuelven inaccesibles para algunos usuarios y son difíciles d
 ---
 
 ## Componente
-
 [FIG - Components](https://www.figma.com/file/adTpzuue9VJyGt5D6bb45F/FIG---Components?node-id=2399%3A2643)
