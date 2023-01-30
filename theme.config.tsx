@@ -24,8 +24,8 @@ sidebar: {
           <div style={{ background: 'cyan', textAlign: 'center' }}>{title}</div>
         );
       }
-      if (title === 'Proceso Diseño') {
-        return <>❓ {title}</>;
+      if (title === 'Proceso Disenio') {
+        return <>Proceso Diseño</>;
       }
       return <>👉 {title}</>;
     },
