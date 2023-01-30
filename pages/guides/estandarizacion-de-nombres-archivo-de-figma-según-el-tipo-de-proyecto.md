@@ -1,3 +1,5 @@
+# Estandarización de nombres archivo de figma según el tipo de proyecto
+.
 Al utilizar nombres estandarizados y fáciles de seguir, se facilita la comunicación y la organización en el equipo. Es importante que todos los miembros del equipo entiendan y utilicen la convención de nombres establecida.
 
 ### Discovery (DISC)

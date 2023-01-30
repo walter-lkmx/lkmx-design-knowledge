@@ -1,3 +1,5 @@
+# Plantillas de correo para solicitud de recursos de marca
+
 Las plantillas de correo son una herramienta valiosa para solicitar recursos de marca. Permiten una comunicación clara y estructurada, asegurando que toda la información relevante se incluya en las solicitudes. Además, ayudan a cumplir con los procesos establecidos y ayuda a obtener una respuesta rápida y eficaz.
 
 **Plantilla de correo en inglés**
