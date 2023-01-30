@@ -6,7 +6,7 @@ Puede contener una gran cantidad de información en un espacio muy reducido a tr
 
 ## Cuándo utilizarlo
 
-El acordeón puede volver más efectivo el descubrir y procesar información. Sin embargo, es claro que oculta contenido de los usuarios. Se sugiere utilizarlo en los siguientes escenario:
+El acordeón puede volver más efectivo el descubrir y procesar información. Sin embargo, es claro que oculta contenido de los usuarios. Se sugiere utilizarlo en los siguientes escenarios:
 
 -   Para organizar información relacionada.
     

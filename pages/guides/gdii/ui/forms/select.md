@@ -8,7 +8,7 @@ Idealmente las opciones disponibles deben limitarse para evitar que la lista sea
 
 ## Si las opciones son reducidas considera utilizar otro tipo de componente
 
-En algunos casos usar otro tipo de control para elegir entre una cantidad muy reducida de opciones es lo ideal, por ejemplo si necesitamos que el usuario elija entre dos opciones solamente lo mejor seria no esconderlas detrás de un menú si no mostrarlas a primera vista.
+En algunos casos usar otro tipo de control para elegir entre una cantidad muy reducida de opciones es lo ideal, por ejemplo si necesitamos que el usuario elija entre dos opciones solamente lo mejor seria no esconderlas detrás de un menú sino mostrarlas a primera vista.
 
 ## Toma en cuenta la opción seleccionada por defecto
 

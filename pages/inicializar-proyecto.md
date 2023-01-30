@@ -1,3 +1,5 @@
+# Inicializar Proyecto
+
 **Objetivo:** Garantizar que se cuenta con toda la información y recursos necesarios para comenzar el trabajo de manera eficiente.
 
 **Roles involucrados:** [Design Lead]
