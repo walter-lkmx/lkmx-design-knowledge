@@ -1,7 +1,7 @@
 # States
 
-| <!-- -->    | <!-- -->        |
-| :---------- | :-------------- |
+|          |          |
+|---------- |-------------- |
 |Estado ideal| - ¿Cómo es el componente cuando todas sus partes funcionan de la manera esperada y reciben el contenido apropiado?|
 | Estado vacío | - ¿Cómo es el componente cuando el usuario se encuentra con él prop primera vez? - Cómo se comporta el componente cuando su función principal no regresa resultados y cómo se lo comunica al usuario? -   ¿Cómo se comporta el componente cuando el usuario ejecuta una función que “limpia” su contenido? | 
 | Estado interactivo| - ¿Cómo se comporta el componente cuando el usuario hace click/tap sobre él? - ¿Cómo se comporta el componente cuando se enfoca sobre él? -   ¿Es claro para el usuario que una función del componente ha sido ejecutada? ¿Cómo lo comunica?| 
