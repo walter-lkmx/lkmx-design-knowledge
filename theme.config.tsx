@@ -3,8 +3,14 @@ import { DocsThemeConfig } from 'nextra-theme-docs';
 import Image from 'next/image'
 import logo from './img/logo.svg';
 
+const primaryHue = 336 
+
 export default {
   logo: <Image src={logo} alt="Hello" width={90.61} height={44} />,
+  primaryHue: {
+    dark: primaryHue,
+    light: primaryHue,
+  },
   sidebar: {
     titleComponent: ({ title, type }) => {
       if (type === 'separator') {
