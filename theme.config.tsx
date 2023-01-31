@@ -1,23 +1,11 @@
-import React from 'react'
-import { DocsThemeConfig } from 'nextra-theme-docs'
+import React from 'react';
+import { DocsThemeConfig } from 'nextra-theme-docs';
+import Image from 'next/image'
+import logo from './img/logo.svg';
 
-const config: DocsThemeConfig = {
-  logo: <span>My Project</span>,
-  project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
-  },
-  chat: {
-    link: 'https://discord.com',
-  },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
-  footer: {
-    text: 'Nextra Docs Template',
-  },
-}
-
-
-export default { config,
-sidebar: {
+export default {
+  logo: <Image src={logo} alt="Hello" width={90.61} height={44} />,
+  sidebar: {
     titleComponent: ({ title, type }) => {
       if (type === 'separator') {
         return (
@@ -27,8 +15,16 @@ sidebar: {
       if (title === 'Proceso Diseno') {
         return <>Proceso Diseño</>;
       }
-      if (title === 'Estandarizacion De Nombres Archivo De Figma Segun El Tipo De Proyecto') {
-        return <>Estandarización de nombres archivo de figma según el tipo de proyecto</>;
+      if (
+        title ===
+        'Estandarizacion De Nombres Archivo De Figma Segun El Tipo De Proyecto'
+      ) {
+        return (
+          <>
+            Estandarización de nombres archivo de figma según el tipo de
+            proyecto
+          </>
+        );
       }
       if (title === 'Estandarizacion De Nombres De Repositorios En Figma') {
         return <>Estandarización de nombres de repositorios en figma</>;
@@ -45,4 +41,4 @@ sidebar: {
       return <>{title}</>;
     },
   },
-}  
+};
