@@ -38,6 +38,18 @@ export default {
       if (title === 'Tipografia') {
         return <>Tipografía</>;
       }
+      if (title === 'Gdii') {
+        return <>GDII</>;
+      }
+      if (title === 'estilo') {
+        return <>Estilo</>;
+      }
+      if (title === 'patrones') {
+        return <>Patrones</>;
+      }
+      if (title === 'ui') {
+        return <>UI</>;
+      }
       return <>{title}</>;
     },
   },
