@@ -56,6 +56,30 @@ export default {
       if (title === 'ui') {
         return <>UI</>;
       }
+      if (title === 'guia-de-mapa-de-aplicacion') {
+        return <>Guía-de-mapa-de-aplicación</>;
+      }
+      if (title === 'como-buscar-el-nombre-de-una-escena-en-el-mapa') {
+        return <>¿Cómo buscar el nombre  de una escena en el mapa?</>;
+      }
+      if (title === 'como-exportar-una-imagen-en-distintos-formatos') {
+        return <>¿Cómo exportar una imagen en distintos formatos?</>;
+      }
+      if (title === 'como-inspeccionar-el-css-de-los-elementos-de-ui') {
+        return <>¿Cómo inspeccionar el CSS de los elementos de UI?</>;
+      }
+      if (title === 'como-navegar-entre-el-mapa') {
+        return <>¿Cómo navegar entre el mapa?</>;
+      }
+      if (title === 'como-obtener-colores-en-distintos-formatos') {
+        return <>¿Cómo obtener colores en distintos formatos?</>;
+      }
+      if (title === 'como-ocultar-barras-de-herramientas-y-ver-solamente-el-mapa') {
+        return <>¿Cómo ocultar barras de herramientas y ver solamente el mapa?</>;
+      }
+      if (title === 'como-seleccionar-una-capa-especifica-en-el-mapa') {
+        return <>¿Cómo seleccionar una capa específica en el mapa?</>;
+      }
       return <>{title}</>;
     },
   },
