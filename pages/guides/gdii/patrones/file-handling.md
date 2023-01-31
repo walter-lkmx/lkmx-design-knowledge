@@ -36,3 +36,12 @@ File management - Patterns - Human Interface Guidelines - Design - Apple Develop
 File management - Patterns - Human Interface Guidelines - Design - Apple Developer (https://developer.apple.com/design/human-interface-guidelines/macos/user-interaction/file-handling/)
 
 Basics of File Handling in C Programming (https://www.tutorialspoint.com/basics-of-file-handling-in-c-programming#:~:text=File%20Handling%20is%20the%20storing,a%20File%20in%20C%20are%20%E2%88%92)
+
+
+
+
+File management - Patterns - Human Interface Guidelines - Design - Apple Developer](https://developer.apple.com/design/human-interface-guidelines/ios/user-interaction/file-handling/)
+
+File management - Patterns - Human Interface Guidelines - Design - Apple Developer](https://developer.apple.com/design/human-interface-guidelines/macos/user-interaction/file-handling/)
+
+Basics of File Handling in C Programming](https://www.tutorialspoint.com/basics-of-file-handling-in-c-programming#:~:text=File%20Handling%20is%20the%20storing,a%20File%20in%20C%20are%20%E2%88%92)

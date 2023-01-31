@@ -22,4 +22,4 @@ Si bien las notificaciones pueden tener botones para realizar una acción que pu
 ---
 
 ## Componente
-[FIG - Components](https://www.figma.com/file/adTpzuue9VJyGt5D6bb45F/FIG---Components?node-id=3277%3A2232)
+![30](https://static.figma.com/uploads/b6df2735e4cb368306acf5480b50f96e69f96099)[FIG - Components](https://www.figma.com/file/adTpzuue9VJyGt5D6bb45F/FIG---Components?node-id=3277%3A2232)
