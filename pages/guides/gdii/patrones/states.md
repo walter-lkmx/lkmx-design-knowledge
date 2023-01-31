@@ -11,4 +11,3 @@
 | Estado imperfecto| - ¿Cómo se comporta el componente cuando el contenido es muy extenso o muy corto? - ¿Cómo se comporta el componente cuando sus imagenes no se encuentran? - ¿Cómo se comporta el componente cuando su contenido está vacío? - Cuando el componente cuenta con poco o ningún contenido ¿es claro para el usuario que no es un error de sistema?|
 | Estado de carga | - ¿Comunica el componente que una función está siendo ejecutada? - ¿Percibe el usuario que el sistema es lento?|
 | Estado parcial| -¿Cómo es el componente cuando el usuario recién ha empezado a interactuar con él? - ¿Puede el componente incentivar una mayor interacción?
-
