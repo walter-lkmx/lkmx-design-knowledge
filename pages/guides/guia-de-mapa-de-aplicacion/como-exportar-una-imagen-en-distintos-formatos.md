@@ -19,4 +19,4 @@ Los formatos disponibles son: PNG, JPG, SVG, PDF.
 
 Dar clic en el botón ”Export” para guardar la imagen en el ordenador
 
-![¿Cómo exportar una imagen en distintos formatos?](C:\Users\usuario\Documents\proyectos\designdocs\pages\img\export-img.gif)
+![¿Cómo exportar una imagen en distintos formatos?](/pages/img/export-img.gif)
