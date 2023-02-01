@@ -1,7 +1,7 @@
 import React from 'react';
 import { DocsThemeConfig } from 'nextra-theme-docs';
 import Image from 'next/image'
-import logo from './img/logo.svg';
+import logo from './img/design-logo.svg';
 
 const primaryHue = 336 
 
@@ -32,11 +32,17 @@ export default {
           </>
         );
       }
-      if (title === 'Estandarizacion De Nombres De Repositorios En Figma') {
-        return <>Estandarización de nombres de repositorios en figma</>;
-      }
       if (title === 'Guia De Recursos De Marca') {
         return <>Guía de recursos de marca</>;
+      }
+      if (title === 'Guia Con Plantillas De Correo Para Solicitud De Recursos De Marca') {
+        return <>Guía con plantillas de correo para solicitud de recursos de marca</>;
+      }
+      if (title === 'Guia Para La Estandarizacion De Nombres Archivo De Figma Segun El Tipo De Proyecto') {
+        return <>Guía para la estandarización de nombres archivo de figma según el tipo de proyecto</>;
+      }
+      if (title === 'Guia Para La Estandarizacion De Nombres De Repositorios En Figma') {
+        return <>Guía para la estandarización de nombres de repositorios en figma</>;
       }
       if (title === 'Navegacion') {
         return <>Navegación</>;
@@ -79,9 +85,6 @@ export default {
       }
       if (title === 'Como Seleccionar Una Capa Especifica En El Mapa') {
         return <>¿Cómo seleccionar una capa específica en el mapa?</>;
-      }
-      if (title === 'Plantillas De Correo Para Solicitud De Recursos De Marca') {
-        return <>Plantillas de correo para solicitud de recursos de marca</>;
       }
       return <>{title}</>;
     },
