@@ -10,5 +10,5 @@ Se debe utilizar el nombre completo y específico de lo que sé desea buscar, ya
 
 Una vez que el buscador termina de analizar los elementos contenidos en el archivo, el viewport se acercará al resultado mas cercano de la búsqueda.
 
-![¿Cómo buscar un Page en el mapa?](C:\Users\usuario\Documents\proyectos\designdocs\pages\img\try-4.gif)
+
 
