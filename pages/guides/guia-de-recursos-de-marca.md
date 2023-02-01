@@ -4,37 +4,9 @@ Es importante hacer una solicitud detallada de los recursos de marca para asegur
 
 El **Design Lead** deberá evaluar cuales recursos son necesarios. El tipo de recurso y su especificación pueden variar en función del proyecto.
 
-**Tipo de recurso**
-
-**Descripción**
-
-**Especificación**
-
-**Tipo de recurso**
-
-**Descripción**
-
-**Especificación**
-
-Logotipos
-
-Pueden ser solicitados en diferentes tamaños y formatos.
-
-SVG, PNG, JPEG.
-
-Paletas de color
-
-Conjunto de colores que se utilizan para dar coherencia a la marca.
-
-Hexadecimal, RGB.
-
-Fuentes
-
-Tipos de letra que se utilizan en los diseños de una marca. De ser posible, solicitar archivo de tipografía.
-
-Nombre de familia, estilo, tamaño y peso.
-
-Imágenes
-
-Gráficos o fotografías utilizadas por la marca.
-
+|**Tipo de recurso**| **Descripción**| **Especificación**|
+|----------|--------------|--------------|
+| Logotipos | Pueden ser solicitados en diferentes tamaños y formatos. | SVG, PNG, JPEG. | 
+| Paletas de color | Conjunto de colores que se utilizan para dar coherencia a la marca. | Hexadecimal, RGB. |
+| Fuentes | Tipos de letra que se utilizan en los diseños de una marca. De ser posible, solicitar archivo de tipografía. | Nombre de familia, estilo, tamaño y peso. |
+| Imagenes | Gráficos o fotografías utilizadas por la marca. | Formato |

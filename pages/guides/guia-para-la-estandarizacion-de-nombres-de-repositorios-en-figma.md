@@ -1,4 +1,4 @@
-# Estandarización de nombres de repositorios en figma
+# Guía para la estandarización de nombres de repositorios en figma
 
 
 1. Utilizar el mismo nombre que el espacio de proyecto de Jira para el repositorio de Figma.
