@@ -13,3 +13,5 @@ Repetir este proceso hasta llegar al nivel de capas deseado.
 ### 3. Seleccionar capa
 
 Cuando se llegue al nivel deseado, seleccionar la capa que se busca
+
+![¿Cómo seleccionar una capa específica en el mapa?](C:\Users\usuario\Documents\proyectos\designdocs\pages\img\select-layer.gif)

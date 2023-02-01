@@ -16,3 +16,5 @@ Para desplazarse en el mapa existen varias opciones:
 En Windows, mantener presionada la tecla **ctrl** y girar la rueda del mouse.
 
 En MAC, mantener presionado **cmd** y girar la rueda del mouse.
+
+![¿Cómo navegar entre el mapa?](C:\Users\usuario\Documents\proyectos\designdocs\pages\img\navigate.gif)

@@ -9,3 +9,5 @@ Utilizar el mouse para seleccionar el elemento.
 Se encuentra en el panel derecho de la interfaz.
 
 Una vez abierto el panel de “Inspect”, se podrán consultar las propiedades del elemento y una interpretación del CSS.
+
+![¿Cómo inspeccionar el CSS de los elementos de UI?](C:\Users\usuario\Documents\proyectos\designdocs\pages\img\inspect-css.gif)
