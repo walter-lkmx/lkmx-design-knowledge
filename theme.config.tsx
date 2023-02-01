@@ -80,6 +80,9 @@ export default {
       if (title === 'Como Seleccionar Una Capa Especifica En El Mapa') {
         return <>¿Cómo seleccionar una capa específica en el mapa?</>;
       }
+      if (title === 'Plantillas De Correo Para Solicitud De Recursos De Marca') {
+        return <>Plantillas de correo para solicitud de recursos de marca</>;
+      }
       return <>{title}</>;
     },
   },
