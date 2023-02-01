@@ -18,4 +18,4 @@ Se copiará automáticamente al portapapeles el código del color en el formato 
 
 Pega el código en el lugar donde se desea utilizar.
 
-![¿Cómo obtener colores en distintos formatos?](/pages/img/copy-color.gif)
+![¿Cómo obtener colores en distintos formatos?](../../img/copy-color.gif)
