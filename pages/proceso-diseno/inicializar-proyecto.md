@@ -1,13 +1,5 @@
 # Inicializar Proyecto
 
-**Objetivo:** Garantizar que se cuenta con toda la información y recursos necesarios para comenzar el trabajo de manera eficiente.
-
-**Roles involucrados:** [Design Lead]
-
-**Actividades del proceso:**
-
-1. Inicializar proyecto
-
 **Propósito**
 
 Garantizar que se cuenta con toda la información y recursos necesarios para comenzar el trabajo de manera eficiente.
@@ -29,6 +21,9 @@ Garantizar que se cuenta con toda la información y recursos necesarios para com
     
 -   Repositorio [Project Igniter (PIG)](https://www.figma.com/files/project/74482706/Project-Igniter?fuid=768909102333332798 "https://www.figma.com/files/project/74482706/Project-Igniter?fuid=768909102333332798")
     
+-   [Guía para la estandarización de nombres de repositorios en Figma 0.4](https://jr2vjr5z5dfsbuueh.atlassian.net/wiki/spaces/LKMX/pages/2215903240)
+    
+-   [Guía para la estandarización de nombres archivo de Figma según el tipo de proyecto 0.4](https://jr2vjr5z5dfsbuueh.atlassian.net/wiki/spaces/LKMX/pages/2215903247)
 
 **Artefactos de salida**
 
@@ -36,5 +31,4 @@ Garantizar que se cuenta con toda la información y recursos necesarios para com
     
 
 ### Diagrama de flujo
-
-**Artefactos por actividad y responsable:**
+![Inicializar proyecto](../img/image-20230103-184323.png)

@@ -10,3 +10,5 @@ El **Design Lead** deberá evaluar cuales recursos son necesarios. El tipo de re
 | Paletas de color | Conjunto de colores que se utilizan para dar coherencia a la marca. | Hexadecimal, RGB. |
 | Fuentes | Tipos de letra que se utilizan en los diseños de una marca. De ser posible, solicitar archivo de tipografía. | Nombre de familia, estilo, tamaño y peso. |
 | Imagenes | Gráficos o fotografías utilizadas por la marca. | Formato |
+
+![[image-20230103-003625.png]]

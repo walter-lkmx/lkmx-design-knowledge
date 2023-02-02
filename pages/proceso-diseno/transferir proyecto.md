@@ -1,12 +1,4 @@
-# Transferir Proyecto
-
-**Objetivo:** Garantizar la continuidad del proyecto. La transferencia de conocimiento y responsabilidades entre Design Leads, asegura que el Design Lead entrante tenga toda la información necesaria para tomar decisiones informadas y liderar el proyecto de manera efectiva.
-
-**Roles involucrados:** [Design Lead]
-
-**Actividades del proceso:**
-
-1. Transferir proyecto
+# Transferir proyecto
 
 **Propósito**
 
@@ -39,4 +31,4 @@ Garantizar la continuidad del proyecto. La transferencia de conocimiento y respo
 
 ### Diagrama de flujo
 
-**Artefactos por actividad y responsable:**
+![Solicitar recursos de marca](../img/Image-20230103-185850.png)
