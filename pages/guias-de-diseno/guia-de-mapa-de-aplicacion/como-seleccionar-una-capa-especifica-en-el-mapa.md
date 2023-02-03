@@ -14,4 +14,4 @@ Repetir este proceso hasta llegar al nivel de capas deseado.
 
 Cuando se llegue al nivel deseado, seleccionar la capa que se busca
 
-![¿Cómo seleccionar una capa específica en el mapa?](select-layer.gif)
+![¿Cómo exportar una imagen en distintos formatos?](../../img/select-layer.gif)
