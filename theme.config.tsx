@@ -86,6 +86,36 @@ export default {
       if (title === 'Como Seleccionar Una Capa Especifica En El Mapa') {
         return <>¿Cómo seleccionar una capa específica en el mapa?</>;
       }
+      if (title === 'Index') {
+        return <>Inicio</>;
+      }
+      if (title === 'Inicializar Proyecto') {
+        return <>Inicializar proyecto</>;
+      }
+      if (title === 'Procesar Delta De Vista') {
+        return <>Procesar delta de vista</>;
+      }
+      if (title === 'Procesar Delta Tecnico') {
+        return <>Procesar delta técnico</>;
+      }
+      if (title === 'Procesar Historia De Usuario') {
+        return <>Procesar historia de usuario</>;
+      }
+      if (title === 'Solicitar Recursos De Marca') {
+        return <>Solicitar recursos de marca</>;
+      }
+      if (title === 'Transferir Proyecto') {
+        return <>Transferir proyecto</>;
+      }
+      if (title === 'Kit De Herramientas') {
+        return <>Kit de herramientas</>;
+      }
+      if (title === 'Guias De Diseno') {
+        return <>Guías de diseño</>;
+      }
+      if (title === 'Proceso De Diseno') {
+        return <>Proceso de diseño</>;
+      }
       return <>{title}</>;
     },
   },
