@@ -6,7 +6,7 @@ Asegurar que los proyectos de la empresa tengan acceso a los recursos de marca n
 
 **Pasos**
 
-1.  **[Design Lead]** Identificar los recursos de marca necesarios para el proyecto. [Consultar guía de recursos](https://jr2vjr5z5dfsbuueh.atlassian.net/wiki/spaces/PD/pages/2191753282/Solicitar+recursos+de+marca+0.1#Gu%C3%ADa-de-recursos-de-marca "https://jr2vjr5z5dfsbuueh.atlassian.net/wiki/spaces/PD/pages/2191753282/Solicitar+recursos+de+marca+0.1#Gu%C3%ADa-de-recursos-de-marca").
+1.  **[Design Lead]** Identificar los recursos de marca necesarios para el proyecto. [Consultar guía de recursos](solicitar-recursos-de-marca).
     
 2.  **[Design Lead]** Verificar si los recursos están disponibles en otro proyecto dentro de LKMX. Si lo están, utilizar los recursos. En caso contrario, informar a **Product Owner** y proceder a solicitar los recursos.
     
@@ -17,9 +17,9 @@ Asegurar que los proyectos de la empresa tengan acceso a los recursos de marca n
 
 -   Proceso de Backlog Grooming inicializado.
     
--   [Guía de recursos de marca 0.4](https://jr2vjr5z5dfsbuueh.atlassian.net/wiki/spaces/LKMX/pages/2215870465)
+-   [Guía de recursos de marca](guia-de-recursos-de-marca)
     
--   [Guía con plantillas de correo para solicitud de recursos de marca 0.4](https://jr2vjr5z5dfsbuueh.atlassian.net/wiki/spaces/LKMX/pages/2215903233)
+-   [Guía con plantillas de correo para solicitud de recursos de marca](guia-con-plantillas-de-correo-para-solicitud-de-recursos-de-marca)
     
 
 **Artefactos de salida**
