@@ -21,9 +21,9 @@ Garantizar que se cuenta con toda la información y recursos necesarios para com
     
 -   Repositorio [Project Igniter (PIG)](https://www.figma.com/files/project/74482706/Project-Igniter?fuid=768909102333332798 "https://www.figma.com/files/project/74482706/Project-Igniter?fuid=768909102333332798")
     
--   [Guía para la estandarización de nombres de repositorios en Figma](guia-para-la-estandarizacion-de-nombres-de-repositorios-en-figma)
+-   [Guía para la estandarización de nombres de repositorios en Figma](../guias-de-diseno/guia-para-la-estandarizacion-de-nombres-de-repositorios-en-figma).
     
--   [Guía para la estandarización de nombres archivo de Figma según el tipo de proyecto](guia-para-la-estandarizacion-de-nombres-archivo-de-figma-segun-el-tipo-de-proyecto)
+-   [Guía para la estandarización de nombres archivo de Figma según el tipo de proyecto](../guias-de-diseno/guia-para-la-estandarizacion-de-nombres-archivo-de-figma-segun-el-tipo-de-proyecto).
 
 **Artefactos de salida**
 

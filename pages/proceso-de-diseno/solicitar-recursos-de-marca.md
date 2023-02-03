@@ -17,9 +17,9 @@ Asegurar que los proyectos de la empresa tengan acceso a los recursos de marca n
 
 -   Proceso de Backlog Grooming inicializado.
     
--   [Guía de recursos de marca](guia-de-recursos-de-marca)
+-   [Guía de recursos de marca](../guias-de-diseno/guia-de-recursos-de-marca).
     
--   [Guía con plantillas de correo para solicitud de recursos de marca](guia-con-plantillas-de-correo-para-solicitud-de-recursos-de-marca)
+-   [Guía con plantillas de correo para solicitud de recursos de marca](../guias-de-diseno/guia-con-plantillas-de-correo-para-solicitud-de-recursos-de-marca)
     
 
 **Artefactos de salida**
