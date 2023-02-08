@@ -1,7 +1,7 @@
 # ¿Cómo ocultar barras de herramientas y ver solamente el mapa?
 
 
-![¿Cómo ocultar barras de herramientas y ver solamente el mapa?]()
+![¿Cómo ocultar barras de herramientas y ver solamente el mapa?](https://raw.githubusercontent.com/walter-lkmx/lkmx-design-knowledge/main/pages/img/hide-ui.gif)
 
 Tanto en Widows como en MAC, se puede recurrir al comando así como buscar la opción para ocultar la barra de herramientas
 
