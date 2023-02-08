@@ -3,7 +3,7 @@
 ![¿Cómo navegar entre el mapa?](https://raw.githubusercontent.com/walter-lkmx/lkmx-design-knowledge/main/pages/img/navigate.gif)
 
 
-### 1. Desplazarse en el mapa
+**1. Desplazarse en el mapa**
 
 Para desplazarse en el mapa existen varias opciones:
 
@@ -14,7 +14,7 @@ Para desplazarse en el mapa existen varias opciones:
 -   Presionar barra espaciadora + click izquierdo y arrastrar el cursor.
     
 
-### 2. Zoom in y Zoom out
+**2. Zoom in y Zoom out**
 
 En Windows, mantener presionada la tecla **ctrl** y girar la rueda del mouse.
 

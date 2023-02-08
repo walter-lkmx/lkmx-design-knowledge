@@ -1,10 +1,10 @@
 # Transferir proyecto
 
-**Propósito**
+### Propósito
 
 Garantizar la continuidad del proyecto. La transferencia de conocimiento y responsabilidades entre Design Leads, asegura que el Design Lead entrante tenga toda la información necesaria para tomar decisiones informadas y liderar el proyecto de manera efectiva.
 
-**Pasos**
+### Pasos
 
 1.  **[Design Lead saliente]** Transferir conocimiento sobre el estado actual del proyecto al **Design Lead** **entrante**.
     
@@ -19,16 +19,15 @@ Garantizar la continuidad del proyecto. La transferencia de conocimiento y respo
 6.  **[Design Lead entrante]** Tomar responsabilidad sobre el proyecto.
     
 
-**Artefactos de entrada**
+### Artefactos de entrada
 
 -   Asignación de Design Lead entrante al proyecto.
     
 
-**Artefactos de salida**
+### Artefactos de salida
 
 -   Toma de responsabilidad del proyecto por parte del Design Lead entrante.
     
 
 ### Diagrama de flujo
-
 ![Solicitar recursos de marca](https://raw.githubusercontent.com/walter-lkmx/lkmx-design-knowledge/main/img/image-20230103-185850.png)

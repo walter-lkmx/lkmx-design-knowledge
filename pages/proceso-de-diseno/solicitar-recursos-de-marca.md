@@ -1,10 +1,10 @@
 # Solicitar recursos de marca
 
-**Propósito**
+### Propósito
 
 Asegurar que los proyectos de la empresa tengan acceso a los recursos de marca necesarios para su correcta ejecución. Los recursos de marca son elementos esenciales para mantener la coherencia y el estilo de la marca en todos los proyectos, y es importante asegurarse de que se soliciten y utilicen de manera adecuada.
 
-**Pasos**
+### Pasos
 
 1.  **[Design Lead]** Identificar los recursos de marca necesarios para el proyecto. [Consultar guía de recursos](solicitar-recursos-de-marca).
     
@@ -13,7 +13,7 @@ Asegurar que los proyectos de la empresa tengan acceso a los recursos de marca n
 3.  **[Design Lead]** Solicitar los recursos de marca necesarios mediante correo con CC a **Product Owner**. Utilizar **plantilla de correo para solicitud de recursos de marca**.
     
 
-**Artefactos de entrada**
+### Artefactos de entrada
 
 -   Proceso de Backlog Grooming inicializado.
     
@@ -22,7 +22,7 @@ Asegurar que los proyectos de la empresa tengan acceso a los recursos de marca n
 -   [Guía con plantillas de correo para solicitud de recursos de marca](../guias-de-diseno/guia-con-plantillas-de-correo-para-solicitud-de-recursos-de-marca)
     
 
-**Artefactos de salida**
+### Artefactos de salida
 
 -   Correo con solicitud de recursos de marca.
     
@@ -71,4 +71,5 @@ Si tienes alguna pregunta, no dudes en hacerme saber.
 
 Gracias, **[Tu nombre]**
 
+### Diagrama de flujo
 ![Solicitar recursos de marca](https://raw.githubusercontent.com/walter-lkmx/lkmx-design-knowledge/main/img/image-20230103-003625.png)
