@@ -26,4 +26,4 @@ Referencias:
     
 -   [https://www.framer.com/examples/radio-button-form/](https://www.framer.com/examples/radio-button-form/)
     
--   [Toggles - Selection and input - Components - Human Interface Guidelines] - Design - Apple Developer ](https://developer.apple.com/design/human-interface-guidelines/macos/buttons/radio-buttons/)
+-   [Toggles - Selection and input - Components - Human Interface Guidelines - Design - Apple Developer ](https://developer.apple.com/design/human-interface-guidelines/macos/buttons/radio-buttons/)
