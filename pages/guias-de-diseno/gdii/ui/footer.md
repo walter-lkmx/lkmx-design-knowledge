@@ -28,7 +28,7 @@ Utiliza tamaños y colores de fuente apropiados para un buen contraste; evita ut
 
 Referencias:
 
--   Web Page Footers 101: Design Patterns and When to Use Each (https://www.nngroup.com/articles/footers/)
+-   [Web Page Footers 101: Design Patterns and When to Use Each](https://www.nngroup.com/articles/footers/)
     
 
--   Pending Website Footer 101: Design, Content, Best Practices & Examples (https://jetpack.com/blog/website-footer-best-practices-and-examples/)
+-   [Pending Website Footer 101: Design, Content, Best Practices & Examples](https://jetpack.com/blog/website-footer-best-practices-and-examples/)

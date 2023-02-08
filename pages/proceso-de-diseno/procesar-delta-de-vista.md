@@ -41,4 +41,4 @@ Diseñar en el mapa un cambio específico sobre una vista en específico.
 
 **Diagrama de flujo**
 
-![procesar delta técnico](../img/Image-20220926-192403.png)
+![procesar delta técnico](https://raw.githubusercontent.com/walter-lkmx/lkmx-design-knowledge/main/img/image-20220926-192403.png)

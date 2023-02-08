@@ -20,7 +20,7 @@ Coloca un botón de “Subir archivos” para permitir al usuario seleccionar lo
 
 Referencias:
 
-Drop zone — Shopify Polaris (https://polaris.shopify.com/components/drop-zone)
+[Drop zone — Shopify Polaris](https://polaris.shopify.com/components/drop-zone)
 
 ---
 

@@ -25,4 +25,4 @@ Verificar que el requerimiento cuenta con los deltas de vista necesarios para se
 
 **Diagrama de flujo**
 
-![Solicitar recursos de marca](../img/Image-20220926-192205.png)
+![Solicitar recursos de marca](https://raw.githubusercontent.com/walter-lkmx/lkmx-design-knowledge/main/img/image-20220926-192205.png)

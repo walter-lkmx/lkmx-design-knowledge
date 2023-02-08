@@ -71,4 +71,4 @@ Si tienes alguna pregunta, no dudes en hacerme saber.
 
 Gracias, **[Tu nombre]**
 
-![Solicitar recursos de marca](../img/image-20230103-003625.png)
+![Solicitar recursos de marca](https://raw.githubusercontent.com/walter-lkmx/lkmx-design-knowledge/main/img/image-20230103-003625.png)

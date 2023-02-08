@@ -29,4 +29,4 @@ Implementar en el mapa un cambio masivo sobre las vistas.
 
 **Diagrama de flujo**
 
-![procesar delta técnico](../img/image-20220926-182339.png)
+![procesar delta técnico](https://raw.githubusercontent.com/walter-lkmx/lkmx-design-knowledge/main/img/image-20220926-182339.png)

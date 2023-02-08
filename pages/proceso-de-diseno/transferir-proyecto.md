@@ -31,4 +31,4 @@ Garantizar la continuidad del proyecto. La transferencia de conocimiento y respo
 
 ### Diagrama de flujo
 
-![Solicitar recursos de marca](../img/Image-20230103-185850.png)
+![Solicitar recursos de marca](https://raw.githubusercontent.com/walter-lkmx/lkmx-design-knowledge/main/img/image-20230103-185850.png)

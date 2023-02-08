@@ -31,4 +31,4 @@ Garantizar que se cuenta con toda la información y recursos necesarios para com
     
 
 ### Diagrama de flujo
-![Inicializar proyecto](../img/image-20230103-184323.png)
+![Inicializar proyecto](https://raw.githubusercontent.com/walter-lkmx/lkmx-design-knowledge/main/img/image-20230103-184323.png))
