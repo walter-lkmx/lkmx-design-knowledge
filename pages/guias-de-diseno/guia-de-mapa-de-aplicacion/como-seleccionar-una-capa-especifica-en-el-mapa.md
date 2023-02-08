@@ -1,5 +1,8 @@
 # ¿Cómo seleccionar una capa específica en el mapa?
 
+![¿Cómo seleccionar una capa específica en el mapa?](https://raw.githubusercontent.com/walter-lkmx/lkmx-design-knowledge/main/pages/img/select-layer.gif)
+
+
 ### 1. Seleccionar vista requerida.
 
 En el panel izquierdo debe resaltar el nombre de la vista seleccionada.
@@ -13,5 +16,3 @@ Repetir este proceso hasta llegar al nivel de capas deseado.
 ### 3. Seleccionar capa
 
 Cuando se llegue al nivel deseado, seleccionar la capa que se busca
-
-![¿Cómo seleccionar una capa específica en el mapa?](../../img/select-layer.gif)

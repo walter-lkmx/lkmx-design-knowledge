@@ -1,9 +1,10 @@
 
 # ¿Cómo obtener colores en distintos formatos?
 
-### 1. Seleccionar el elemento o la imagen con el color que se desea exportar
+![¿Cómo obtener colores en distintos formatos?](https://raw.githubusercontent.com/walter-lkmx/lkmx-design-knowledge/main/pages/img/copy-color.gif)
 
-Utilizar el mouse para seleccionar el elemento.
+
+### 1. Seleccionar el elemento o la imagen con el color que se desea exportar
 
 ### 2. En el panel lateral derecha, seleccionar el pincel o el color que se desea exportar.
 
@@ -17,5 +18,3 @@ Se copiará automáticamente al portapapeles el código del color en el formato 
   
 
 Pega el código en el lugar donde se desea utilizar.
-
-![¿Cómo obtener colores en distintos formatos?](../../img/copy-color.gif)

@@ -1,5 +1,8 @@
 # ¿Cómo navegar entre el mapa?
 
+![¿Cómo navegar entre el mapa?](https://raw.githubusercontent.com/walter-lkmx/lkmx-design-knowledge/main/pages/img/navigate.gif)
+
+
 ### 1. Desplazarse en el mapa
 
 Para desplazarse en el mapa existen varias opciones:
@@ -16,5 +19,3 @@ Para desplazarse en el mapa existen varias opciones:
 En Windows, mantener presionada la tecla **ctrl** y girar la rueda del mouse.
 
 En MAC, mantener presionado **cmd** y girar la rueda del mouse.
-
-![¿Cómo navegar entre el mapa?](../../img/navigate.gif)

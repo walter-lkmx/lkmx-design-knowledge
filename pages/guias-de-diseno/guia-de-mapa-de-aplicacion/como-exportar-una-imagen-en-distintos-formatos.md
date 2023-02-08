@@ -1,8 +1,10 @@
 # ¿Cómo exportar una imagen en distintos formatos?
 
+![Exportar.](https://raw.githubusercontent.com/walter-lkmx/lkmx-design-knowledge/main/pages/img/export-img.gif)
+
+
 ### 1. Seleccionar el elemento o imagen que se va a exportar
 
-Utilizar el mouse para seleccionar el elemento.
 
 ### 2. Hacer clic en la pestaña “Export”
 
@@ -18,5 +20,3 @@ Los formatos disponibles son: PNG, JPG, SVG, PDF.
   
 
 Dar clic en el botón ”Export” para guardar la imagen en el ordenador
-
-![¿Cómo exportar una imagen en distintos formatos?](../../img/export-img.gif)
