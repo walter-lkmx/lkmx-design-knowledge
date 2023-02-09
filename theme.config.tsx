@@ -116,6 +116,9 @@ export default {
       if (title === 'Proceso De Diseno') {
         return <>Proceso de diseño</>;
       }
+      if (title === 'Guia De Buenas Practicas Para Construccion Del Mapa De Aplicacion') {
+        return <>Guía de buenas prácticas para construcción del mapa de aplicación</>;
+      }
       return <>{title}</>;
     },
   },
