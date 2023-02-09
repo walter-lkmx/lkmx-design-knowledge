@@ -30,7 +30,7 @@ Asegurar que los proyectos de la empresa tengan acceso a los recursos de marca n
 ### Plantilla de correo para solicitud de recursos de marca
 
 ```sh
-**Plantilla de correo en inglés** |
+**Plantilla de correo en inglés**
 ```
 
 ```sh
