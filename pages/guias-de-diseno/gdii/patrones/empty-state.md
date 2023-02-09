@@ -16,9 +16,9 @@ Los botones son una manera clara de invitar al usuario a realizar una acción en
 
 Referencias:
 
-User Experience: Seven Empty State Best Practices for UX Design (https://www.vendasta.com/blog/user-experience-empty-state-best-practices/)
+[User Experience: Seven Empty State Best Practices for UX Design](https://www.vendasta.com/blog/user-experience-empty-state-best-practices/)
 
-Material Design (https://material.io/design/communication/empty-states.html#content)
+[Material Design](https://material.io/design/communication/empty-states.html#content)
 
 ---
 

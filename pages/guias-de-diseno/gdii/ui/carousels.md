@@ -25,4 +25,5 @@ No hay nada más natural que ver un carrusel en tu teléfono e intentar deslizar
 [FIG - Components](https://www.figma.com/file/adTpzuue9VJyGt5D6bb45F/FIG---Components?node-id=2105%3A2468)
 
 Referencias:
+
 [Carousel/slider design best practices (with examples) | Webflow Blog](https://webflow.com/blog/carousel-slider-design-best-practices)
