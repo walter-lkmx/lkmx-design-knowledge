@@ -119,4 +119,16 @@ export default {
       return <>{title}</>;
     },
   },
+  footer: {
+    text: <span>
+     {new Date().getFullYear()} © The UX Hub by Dr. Isain.
+    </span>,
+  },
+  docsRepositoryBase: 'https://github.com/walter-lkmx/respaldo-doc/',
+  feedback: {
+    content: 'Ayúdanos a mejorar, comparte tus sugerencias 🧠'
+  },
+  editLink: {
+    text: ''
+  }
 };
