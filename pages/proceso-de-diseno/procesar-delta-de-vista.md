@@ -1,10 +1,10 @@
 # Procesar delta de vista 
 
-## Propósito
+### Propósito
 
 Diseñar en el mapa un cambio específico sobre una vista en específico.
 
-## Pasos
+### Pasos
 
 1.  **[Design Lead]** Analizar si el delta de vista cuenta con información suficiente para ser implementada. En caso contrario agregar **preguntas** para clarificar la **historia de usuario**, pasar a estado 1_1.
     
@@ -21,12 +21,12 @@ Diseñar en el mapa un cambio específico sobre una vista en específico.
 7.  **[Design Lead]** Analizar si el delta de vista requiere más deltas para escenarios. Si es requerido, crear **deltas** para escenario en backlog y repetir proceso.
     
 
-## Artefactos de entrada
+### Artefactos de entrada
 
 -   Delta de vista asignado al **Design Lead**.
     
 
-## Artefactos de salida
+### Artefactos de salida
 
 -   Preguntas para clarificar la historia de usuario.
     
@@ -39,6 +39,6 @@ Diseñar en el mapa un cambio específico sobre una vista en específico.
 -   Deltas en backlog.
     
 
-## Diagrama de flujo
+### Diagrama de flujo
 
 ![procesar delta técnico](https://raw.githubusercontent.com/walter-lkmx/lkmx-design-knowledge/main/img/image-20220926-192403.png)

@@ -5,17 +5,13 @@
 
 Tanto en Widows como en MAC, se puede recurrir al comando así como buscar la opción para ocultar la barra de herramientas
 
-### 1. Abrir menu de Figma
+**1. Abrir menu de Figma**
+- Este se encuentra en la esquina superior izquierda de la interfaz.
 
-	Este se encuentra en la esquina superior izquierda de la interfaz.
+**2. Dirigirse a la opción “view” y seleccionar “show/hide UI”**
 
-### 2. Dirigirse a la opción “view” y seleccionar “show/hide UI”
-
-
-### Comandos
-
+**Comandos**
 - MAC: cmd + \
-
 - Windows: ctrl + \
 
 Para volver a mostrar las barras de herramientas, repite los pasos.
