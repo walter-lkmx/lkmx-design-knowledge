@@ -29,10 +29,11 @@ Asegurar que los proyectos de la empresa tengan acceso a los recursos de marca n
 
 ### Plantilla de correo para solicitud de recursos de marca
 
+```sh
 **Plantilla de correo en inglés**
+```
 
-**Plantilla de correo en español**
-
+```sh
 **Subject**: Request for Brand Assets
 
 Hi **[Name Stakeholder]**,
@@ -51,7 +52,13 @@ These assets will be used to maintain brand consistency and style in the design 
 If you have any questions, please let me know.
 
 Thanks, **[Your Name]**
+```
 
+```sh
+**Plantilla de correo en español**
+```
+
+```sh
 **Asunto**: Solicitud de recursos de marca
 
 Hola **[Nombre Stakeholder]**,
@@ -70,6 +77,7 @@ Estos recursos se utilizarán para mantener la coherencia y el estilo de la marc
 Si tienes alguna pregunta, no dudes en hacerme saber.
 
 Gracias, **[Tu nombre]**
+```
 
 ### Diagrama de flujo
 ![Solicitar recursos de marca](https://raw.githubusercontent.com/walter-lkmx/lkmx-design-knowledge/main/img/image-20230103-003625.png)

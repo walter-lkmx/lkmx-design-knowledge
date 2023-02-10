@@ -22,7 +22,7 @@ Los usuarios deberían saber sobre qué es el video antes de reproducirlo. El t�
 
 Referencias:
 
-Video Usability (https://www.nngroup.com/articles/video-usability/)
+[Video Usability](https://www.nngroup.com/articles/video-usability/)
 
 ---
 
