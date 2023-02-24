@@ -69,6 +69,9 @@ export default {
       if (title === 'Gdii') {
         return <>GDII</>;
       }
+      if (title === 'gdii') {
+        return <>GDII</>;
+      }
       if (title === 'estilo') {
         return <>Estilo</>;
       }
