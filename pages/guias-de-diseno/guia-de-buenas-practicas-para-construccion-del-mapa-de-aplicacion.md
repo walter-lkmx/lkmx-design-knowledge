@@ -23,7 +23,7 @@ El buen rendimiento de un archivo de Mapa de Aplicación en Figma depende de una
     
 -   Librerías de terceros.
     
--   Otros
+-   Otrosss
     
 
 La siguiente es una guía de factores a considerar para prevenir que un Mapa de Aplicación construido en Figma tenga problemas de rendimiento y se vuelva inoperable. Esta lista se encuentra en progreso y es actualizada a medida que se descubren nuevos detalles
