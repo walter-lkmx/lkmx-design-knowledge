@@ -8,7 +8,7 @@ Evaluar la calidad de los artefactos producidos por el Design Lead durante la de
 3. **[Evaluador]** Identificar las fechas de inicio y fin de la definción del sprint a evaluar (consultar en [Confluence espacio de proyecto](https://jr2vjr5z5dfsbuueh.atlassian.net/wiki) y verificar Release Plan del proyecto en curso).
 4. **[Evaluador]** Realizar búsqueda en Jira con JQL utilizando la plantilla de búsqueda con los datos recabados en los pasos 1 a 3 (consultar [Plantilla de búsqueda avanzada en Jira utilizando JQL](../guias-de-diseno/filtrado-de-issues-que-fueron-asignadosa-un-design-lead-en-jira)).
 5. **[Evaluador]** Revisar el mockup registrado en cada issue para identificar si lo componentes y elementos del artefacto cumplen con las buenas prácticas de Estilo, Patrones y UI que están documentados en la [GDII](https://lkmx-design-knowledge.vercel.app/).
-6. **[Evaluador]** Documentar los hallazgos de la evaluación en el documento de evaluación específico del proyecto. Si no existe, [clonar plantilla de inicialización](https://drive.google.com/drive/folders/1hu6dw9dznkGgXKTzcScbT5AwdpgH-S6U?usp=sharing) y nombrarla con el nombre del proyecto.
+6. **[Evaluador]** Documentar los hallazgos de la evaluación en el documento de evaluación específico del proyecto (ubicar espacio del proyecto en el [repositorio de evaluaciones](https://drive.google.com/drive/folders/1hu6dw9dznkGgXKTzcScbT5AwdpgH-S6U?usp=sharing)). Si no existe, [clonar plantilla de inicialización](https://drive.google.com/drive/folders/1hu6dw9dznkGgXKTzcScbT5AwdpgH-S6U?usp=sharing) y nombrarla con el nombre del proyecto.
 
 ## Artefactos de Entrada
 - ID del proyecto a evaluar en Jira.
