@@ -67,10 +67,7 @@ export default {
         return <>Tipografía</>;
       }
       if (title === 'Gdii') {
-        return <>GDII</>;
-      }
-      if (title === 'gdii') {
-        return <>GDII</>;
+        return <>Guía de diseño e interacción de interfaces</>;
       }
       if (title === 'estilo') {
         return <>Estilo</>;
@@ -81,6 +78,10 @@ export default {
       if (title === 'ui') {
         return <>UI</>;
       }
+      if (title === 'Filtrado De Issues Que Fueron Asignadosa Un Design Lead En Jira') {
+        return <>Filtrado de issues que fueron asignados a un design lead en Jira</>;
+      }
+      
       if (title === 'Guia De Mapa De Aplicacion') {
         return <>Guía de mapa de aplicación</>;
       }
