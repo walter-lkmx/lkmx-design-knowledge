@@ -78,7 +78,7 @@ export default {
       if (title === 'ui') {
         return <>UI</>;
       }
-      if (title === 'Filtrado De Issues Que Fueron Asignadosa Un Design Lead En Jira') {
+      if (title === 'Filtrado De Issues Que Fueron Asignados A Un Design Lead En Jira') {
         return <>Filtrado de issues que fueron asignados a un design lead en Jira</>;
       }
       
