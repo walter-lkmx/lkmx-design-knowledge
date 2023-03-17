@@ -38,3 +38,14 @@
 | **Nombre** | **Descripción** |
 |----------|--------------|
 | [Zappy (Mac)](https://zapier.com/zappy) | Video. Grabación de pantalla.|
+
+
+## Chrome Extensions
+| **Nombre** | **Descripción** |
+|----------|--------------|
+| [Copytables](https://merribithouse.net/copytables/) |Permite seleccionar y copiar celdas de tablas.|
+| [PixelParallel by htmlBurger](https://chrome.google.com/webstore/detail/pixelparallel-by-htmlburg/iffnoibnepbcloaaagchjonfplimpkob) |herramienta de comparación HTML vs Design|
+| [Herramienta Cuentagotas de color](https://chrome.google.com/webstore/detail/ultimate-color-picker/clkoagfbjkilljcajbbielofkeokbhma) |Obtén colores de una página con cuentagotas.|
+| [Picture-in-Picture](https://chrome.google.com/webstore/detail/picture-in-picture/bpjkjejdannjfahgbahegaendgjgnpci) |Permite reproducir un video en la esquina de la pantalla y hacer que flote sobre otras pestañas.|
+| [PerfectPixel by WellDoneCode](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi) |Permite colocar una superposición de imagen semitransparente sobre el HTML desarrollado y realizar una comparación perfecta de píxeles entre ellos.|
+| [Captura de página completa - FireShot](https://merribithouse.net/copytables) |Captura imagenes de pagina web,editar y guardar en PDF/JPEG/GIF/PNG/BMP. Subir,imprimir,enviar al portapapeles o correo electronico.|
