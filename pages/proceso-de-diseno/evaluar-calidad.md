@@ -7,8 +7,13 @@ Evaluar la calidad de los artefactos producidos por el Design Lead durante la de
 2. **[Evaluador]** Identificar ID de usuario en Jira del **Design Lead** asignado al proyecto a evaluar (consultar [Listado de Design Leads y id de usuario en Jira](../guias-de-diseno/filtrado-de-issues-que-fueron-asignadosa-un-design-lead-en-jira)).
 3. **[Evaluador]** Identificar las fechas de inicio y fin de la definción del sprint a evaluar (consultar en [Confluence espacio de proyecto](https://jr2vjr5z5dfsbuueh.atlassian.net/wiki) y verificar Release Plan del proyecto en curso).
 4. **[Evaluador]** Realizar búsqueda en Jira con JQL utilizando la plantilla de búsqueda con los datos recabados en los pasos 1 a 3 (consultar [Plantilla de búsqueda avanzada en Jira utilizando JQL](../guias-de-diseno/filtrado-de-issues-que-fueron-asignadosa-un-design-lead-en-jira)).
-5. **[Evaluador]** Revisar el mockup registrado en cada issue para identificar si lo componentes y elementos del artefacto cumplen con las buenas prácticas de Estilo, Patrones y UI que están documentados en la [GDII](https://lkmx-design-knowledge.vercel.app/).
+5. **[Evaluador]** Revisar el mockup registrado en cada issue para identificar si los componentes y elementos del artefacto cumplen con las buenas prácticas de Estilo, Patrones y UI que están documentados en la [GDII](https://lkmx-design-knowledge.vercel.app/).
 6. **[Evaluador]** Documentar los hallazgos de la evaluación en el documento de evaluación específico del proyecto (ubicar espacio del proyecto en el [repositorio de evaluaciones](https://drive.google.com/drive/folders/1hu6dw9dznkGgXKTzcScbT5AwdpgH-S6U?usp=sharing)). Si no existe, [clonar plantilla de inicialización](https://drive.google.com/drive/folders/1hu6dw9dznkGgXKTzcScbT5AwdpgH-S6U?usp=sharing) y nombrarla con el nombre del proyecto.
+7. **[Evaluador]** Comunicar al **Design Lead** los hallazgos documentados en el documento de evaluación.
+8. **[Design Lead]** Revisar y confirmar la recepción de los hallazgos.
+9. **[Design Lead]** Analizar los hallazgos, determinar las acciones correctivas para solucionarlos y ejecutarlas. En caso de que el hallazgo no sea procedente, justificar con un comentario en el documento de evaluación.
+10. **[Evaluador]** Verificar que los hallazgos hayan sido cerrados en el documento de evaluación. En caso de que no se haya cerrado algún hallazgo, comunicar al Design Lead los hallazgos pendientes y establecer una fecha límite para su solución que no exceda de 4 días. Verificar que los hallazgos pendientes se resuelvan antes de la fecha límite establecida.
+
 
 ## Artefactos de Entrada
 - ID del proyecto a evaluar en Jira.
