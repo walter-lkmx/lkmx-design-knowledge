@@ -17,6 +17,7 @@
 | [RemoveBG](https://www.figma.com/community/plugin/738992712906748191)| Remover el fondo de las imágenes automáticamente.|
 | [Image Tracer](https://www.figma.com/community/plugin/735707089415755407) | Trazar automáticamente un vector a partir de una imagen.|
 | [Word Counter](https://www.figma.com/community/plugin/835015945650515753) | Cuenta las palabras y caracteres en cualquier text seleccionado.|
+| [Sum Calculator](https://www.figma.com/community/plugin/1159437719118974671/Sum-Calculator) | Calcule la suma de todas las cadenas numéricas en la selección.|
 
 
 ## WebApps
