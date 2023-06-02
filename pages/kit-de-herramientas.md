@@ -18,6 +18,8 @@
 | [Image Tracer](https://www.figma.com/community/plugin/735707089415755407) | Trazar automáticamente un vector a partir de una imagen.|
 | [Word Counter](https://www.figma.com/community/plugin/835015945650515753) | Cuenta las palabras y caracteres en cualquier text seleccionado.|
 | [Sum Calculator](https://www.figma.com/community/plugin/1159437719118974671/Sum-Calculator) | Calcule la suma de todas las cadenas numéricas en la selección.|
+| [Tinify Image compressor | WEBP, JPG, PNG](https://www.figma.com/community/plugin/1127372261563355491) | Puede elegir el nivel de iteraciones, la calidad, el tamaño máximo de archivo y el formato WEBP, JPEG o PNG.|
+
 
 
 ## WebApps
