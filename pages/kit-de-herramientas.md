@@ -17,6 +17,9 @@
 | [RemoveBG](https://www.figma.com/community/plugin/738992712906748191)| Remover el fondo de las imágenes automáticamente.|
 | [Image Tracer](https://www.figma.com/community/plugin/735707089415755407) | Trazar automáticamente un vector a partir de una imagen.|
 | [Word Counter](https://www.figma.com/community/plugin/835015945650515753) | Cuenta las palabras y caracteres en cualquier text seleccionado.|
+| [Sum Calculator](https://www.figma.com/community/plugin/1159437719118974671/Sum-Calculator) | Calcule la suma de todas las cadenas numéricas en la selección.|
+| [Tinify Image compressor](https://www.figma.com/community/plugin/1127372261563355491) | Puede elegir el nivel de iteraciones, la calidad, el tamaño máximo de archivo y el formato WEBP, JPEG o PNG.|
+
 
 
 ## WebApps
@@ -38,3 +41,14 @@
 | **Nombre** | **Descripción** |
 |----------|--------------|
 | [Zappy (Mac)](https://zapier.com/zappy) | Video. Grabación de pantalla.|
+
+
+## Chrome Extensions
+| **Nombre** | **Descripción** |
+|----------|--------------|
+| [Copytables](https://merribithouse.net/copytables/) |Permite seleccionar y copiar celdas de tablas.|
+| [PixelParallel by htmlBurger](https://chrome.google.com/webstore/detail/pixelparallel-by-htmlburg/iffnoibnepbcloaaagchjonfplimpkob) |herramienta de comparación HTML vs Design|
+| [Herramienta Cuentagotas de color](https://chrome.google.com/webstore/detail/ultimate-color-picker/clkoagfbjkilljcajbbielofkeokbhma) |Obtén colores de una página con cuentagotas.|
+| [Picture-in-Picture](https://chrome.google.com/webstore/detail/picture-in-picture/bpjkjejdannjfahgbahegaendgjgnpci) |Permite reproducir un video en la esquina de la pantalla y hacer que flote sobre otras pestañas.|
+| [PerfectPixel by WellDoneCode](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi) |Permite colocar una superposición de imagen semitransparente sobre el HTML desarrollado y realizar una comparación perfecta de píxeles entre ellos.|
+| [Captura de página completa - FireShot](https://merribithouse.net/copytables) |Captura imagenes de pagina web,editar y guardar en PDF/JPEG/GIF/PNG/BMP. Subir,imprimir,enviar al portapapeles o correo electronico.|
