@@ -7,7 +7,9 @@ Evaluar la calidad de los artefactos producidos por el Design Lead durante la de
 2. **[Evaluador]** Identificar el sprint a evaluar y utilizar el [filtro de Jira](https://jr2vjr5z5dfsbuueh.atlassian.net/issues/?jql=order%20by%20created%20DESC), para encontrar los issues que correspondan al sprint que esta siendo evaluado.
 3. **[Evaluador]** Verificar con el **Design Lead** que los issues que arroja el filtro son correctos.
 4. **[Evaluador]** Revisar el mockup registrado en cada issue para identificar si lo componentes y elementos del artefacto cumplen con las buenas prácticas de Estilo, Patrones y UI que están documentados en la [GDII](https://lkmx-design-knowledge.vercel.app/).
-5. **[Evaluador]** Documentar los hallazgos de la evaluación en el documento de evaluación específico del proyecto. Si no existe, [clonar plantilla de inicialización](https://drive.google.com/drive/folders/1hu6dw9dznkGgXKTzcScbT5AwdpgH-S6U?usp=sharing) y nombrarla con el nombre del proyecto.
+5. **[Evaluador]** Documentar los hallazgos de la evaluación en el [documento de evaluación](https://docs.google.com/spreadsheets/d/12P-z-cRdLzhj2CyE_HkvvnNC8gPYW1rq5mgghAYTM80/edit?usp=sharing).
+6. **[Evaluador]** Contactar al **Design Lead** para dar seguimiento a los hallazgos documentados, definir cuales serán solucionados y acordar una fecha de finalización.
+7. **[Design Lead]** Solucionar los hallazgos acordados antes de la fecha comprometida.
 
 ## Artefactos de Entrada
 - ID del proyecto a evaluar en Jira.
@@ -20,4 +22,3 @@ Evaluar la calidad de los artefactos producidos por el Design Lead durante la de
 
 ## Artefactos de salida
 - Documento de evaluación con hallazgos documentados.
-
