@@ -19,6 +19,7 @@
 | [Word Counter](https://www.figma.com/community/plugin/835015945650515753) | Cuenta las palabras y caracteres en cualquier text seleccionado.|
 | [Sum Calculator](https://www.figma.com/community/plugin/1159437719118974671/Sum-Calculator) | Calcule la suma de todas las cadenas numéricas en la selección.|
 | [Tinify Image compressor](https://www.figma.com/community/plugin/1127372261563355491) | Puede elegir el nivel de iteraciones, la calidad, el tamaño máximo de archivo y el formato WEBP, JPEG o PNG.|
+| [Find & Replace](https://www.figma.com/community/plugin/905964570877397972/Find-%26-Replace) | Buscar y reemplaza en cualquier texto que se encuentre en su selección o, si no tiene nada seleccionado, buscará en toda la página activa.|
 
 
 
