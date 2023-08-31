@@ -22,4 +22,3 @@ Evaluar la calidad de los artefactos producidos por el Design Lead durante la de
 
 ## Artefactos de salida
 - Documento de evaluación con hallazgos documentados.
-
