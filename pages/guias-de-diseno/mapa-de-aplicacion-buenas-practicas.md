@@ -1,4 +1,4 @@
-# Guía de Buenas Prácticas para Construcción del Mapa de Aplicación
+# Mapa de Aplicación - Buenas Prácticas
 
 El Mapa de Aplicación en Figma proporciona la visión general de un producto digital y sirve como punto de convergencia con distintos fines:
 
@@ -23,7 +23,7 @@ El buen rendimiento de un archivo de Mapa de Aplicación en Figma depende de una
     
 -   Librerías de terceros.
     
--   Otrosss
+-   Otros.
     
 
 La siguiente es una guía de factores a considerar para prevenir que un Mapa de Aplicación construido en Figma tenga problemas de rendimiento y se vuelva inoperable. Esta lista se encuentra en progreso y es actualizada a medida que se descubren nuevos detalles
